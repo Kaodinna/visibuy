@@ -97,9 +97,7 @@ const Navbar = () => {
               <span className=" p-[15px] flex flex-row items-center gap-[5px] cursor-pointer">
                 <FaRegHeart className="h-[12px] w-[12px] md:w-[27px] md:h-[28px] text-[#23A6F0]" />
 
-                <small className="font-[400] text-[12px] leading-[16px] text-[#23A6F0]">
-                  1
-                </small>
+                <small className="font-[400]  text-[#23A6F0]">1</small>
               </span>
             </div>
           </div>
