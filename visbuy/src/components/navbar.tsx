@@ -1,4 +1,3 @@
-"use client";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
 import { BsTelephone } from "react-icons/bs";
