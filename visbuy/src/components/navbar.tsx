@@ -1,6 +1,6 @@
 "use client";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
-import React, { useState } from "react";
+import { useState } from "react";
 import { BsTelephone } from "react-icons/bs";
 import { CiMail, CiUser } from "react-icons/ci";
 import { FaInstagram } from "react-icons/fa";
